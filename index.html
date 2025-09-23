@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login & Signup</title>
+  <link rel="stylesheet" href="./style.css">
+ </head>
+<body>
+  <!-- Invisible anchor for toggling -->
+  <div id="signup"></div>
+
+  <div class="wrapper">
+    <!-- Login Form -->
+    <div class="container" id="loginForm">
+      <h2>Login</h2>
+      <form>
+        <div class="input-group">
+          <label>Email</label>
+          <input type="email" placeholder="Enter your email" required>
+        </div>
+        <div class="input-group">
+          <label>Password</label>
+          <input type="password" placeholder="Enter your password" required>
+        </div>
+        <button class="btn" type="submit">Login</button>
+        <div class="toggle">
+          Don’t have an account? <a href="#signup">Sign Up</a>
+        </div>
+      </form>
+    </div>
+
+    <!-- Signup Form -->
+    <div class="container" id="signupForm">
+      <h2>Sign Up</h2>
+      <form>
+        <div class="input-group">
+          <label>Full Name</label>
+          <input type="text" placeholder="Enter your name" required>
+        </div>
+        <div class="input-group">
+          <label>Email</label>
+          <input type="email" placeholder="Enter your email" required>
+        </div>
+        <div class="input-group">
+          <label>Password</label>
+          <input type="password" placeholder="Create a password" required>
+        </div>
+        <button class="btn" type="submit">Sign Up</button>
+        <div class="toggle">
+          Already have an account? <a href="#">Login</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
