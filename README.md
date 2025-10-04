@@ -12,7 +12,10 @@ A modern, responsive **Login and Signup user interface** built with **HTML & CSS
 ---
 
 ## 📸 Preview
-![Login Page](https://github.com/Krithikulal13/Glassmorphism-Login-Signup-UI/blob/main/Login.png)  
+### Login Page
+![Login Page](https://github.com/Krithikulal13/Glassmorphism-Login-Signup-UI/blob/main/Login.png) 
+
+### Sign Up Page
 ![Sign Up Page](https://github.com/Krithikulal13/Glassmorphism-Login-Signup-UI/blob/main/Sign%20Up.png)  
 
 ---
