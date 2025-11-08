@@ -7,7 +7,6 @@ A modern, responsive **Login and Signup user interface** built with **HTML & CSS
 - 🔄 Toggle between Login & Signup (pure CSS, no JavaScript)  
 - 📱 Responsive design for desktop & mobile  
 - 🎨 Clean gradient background and animations  
-
 ---
 
 ## 📸 Preview
