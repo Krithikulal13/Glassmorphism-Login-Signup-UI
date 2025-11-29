@@ -9,7 +9,6 @@ A modern, responsive **Login and Signup user interface** built with **HTML & CSS
 - 📱 Responsive design for desktop & mobile  
 - 🎨 Clean gradient background and animations  
 ---
-
 ## 📸 Preview
 ### Login Page
 ![Login Page](https://github.com/Krithikulal13/Glassmorphism-Login-Signup-UI/blob/main/Login.png) 
